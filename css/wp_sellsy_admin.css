@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+div.wrap div.adminInfo {
+    width: auto;
+    height: auto;
+    background-color: #ececec;
+    padding: 5px;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    margin-bottom: 15px;
+}
+
+div.wrap div#icon-sellsy {
+    background: url( '../img/sellsy_34.png' ) no-repeat;
+    margin: 0 5px 0 3px
+}
+
+img#imgloader {
+    display: none;
+    float: right;
+    margin-top: 2px;
+}

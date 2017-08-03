@@ -1,0 +1,133 @@
+# Copyright (C) 2015 Gravity Form Sellsy Addon
+# This file is distributed under the same license as the Gravity Form Sellsy Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gravity Form Sellsy Addon 1.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gravity-forms-"
+"sellsy-addon\n"
+"POT-Creation-Date: 2015-12-10 07:27:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/wp_sellsy-adm-page.php:17
+msgid "Successfully connected to SellSy."
+msgstr ""
+
+#: inc/wp_sellsy-adm-page.php:19
+msgid "Error, impossible to connect to Sellsy. Please check token."
+msgstr ""
+
+#: inc/wp_sellsy-adm-page.php:27
+msgid ""
+"This plugin allow you to connect a specific Gravity Form to your Sellsy "
+"account. You must firstly have a Sellsy Account with prospection level. "
+msgstr ""
+
+#: inc/wp_sellsy-adm-page.php:28
+msgid "Download the connected form here by right click \"save cible as\""
+msgstr ""
+
+#: inc/wp_sellsy-adm-page.php:29
+msgid "How-to import a form in Gravity Form"
+msgstr ""
+
+#: inc/wp_sellsy-adm-page.php:29
+msgid " How-To import a form in Gravity Form"
+msgstr ""
+
+#: inc/wp_sellsy-adm-page.php:30
+msgid "Get your API's keys (settings > API Access)"
+msgstr ""
+
+#: inc/wp_sellsy-adm-page.php:32
+msgid "If You Enjoy this plugin... encourage me!"
+msgstr ""
+
+#: inc/wp_sellsy-adm-page.php:61 thfo-sellsy.php:229 thfo-sellsy.php:297
+#: thfo-sellsy.php:322
+msgid "You do not have correct permissions."
+msgstr ""
+
+#: thfo-sellsy.php:221
+msgid ""
+"PHP cURL seems to be unavailable in your server. You can't use this plugin, "
+"please contact your administrator. ."
+msgstr ""
+
+#: thfo-sellsy.php:252
+msgid "You just install GF Sellsy Addons. Click here to set up"
+msgstr ""
+
+#: wp_sellsy-settings.class.php:25
+msgid "Connexion to Sellsy"
+msgstr ""
+
+#: wp_sellsy-settings.class.php:26
+msgid "Plugin options"
+msgstr ""
+
+#: wp_sellsy-settings.class.php:42
+msgid "Consumer Token"
+msgstr ""
+
+#: wp_sellsy-settings.class.php:50
+msgid "Consumer Secret"
+msgstr ""
+
+#: wp_sellsy-settings.class.php:58
+msgid "User Token"
+msgstr ""
+
+#: wp_sellsy-settings.class.php:66
+msgid "User Secret"
+msgstr ""
+
+#: wp_sellsy-settings.class.php:76
+msgid "Form ID (previously imported in Gravity form)"
+msgstr ""
+
+#: wp_sellsy-settings.class.php:202
+msgid "Default description"
+msgstr ""
+
+#: wp_sellsy-settings.class.php:250
+msgid "Consumer Token is missing or wrong, please check."
+msgstr ""
+
+#: wp_sellsy-settings.class.php:258
+msgid "Consumer Secret is missing or wrong, please check."
+msgstr ""
+
+#: wp_sellsy-settings.class.php:266
+msgid "User token is missing or wrong, please check."
+msgstr ""
+
+#: wp_sellsy-settings.class.php:274
+msgid "User secret is missing or wrong, please check."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Gravity Form Sellsy Addon"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.thivinfo.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Le plugin Gravity Form Sellsy Addon vous permet de connecter un formulaire "
+"de contact Gravity Form avec votre compte Sellsy."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sébastien SERRE"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.sebastien-serre.fr"
+msgstr ""
